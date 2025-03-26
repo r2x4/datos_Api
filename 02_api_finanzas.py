@@ -4,7 +4,7 @@ from sqlalchemy import create_engine
 
 # Clave de API (debes registrarte en Alpha Vantage para obtenerla)
 API_KEY = "TU_API_KEY"
-SYMBOL = "AAPL"  # Acción de Apple como ejemplo
+SYMBOL = "AAPL"
 
 # URL de la API para datos de acciones
 def obtener_datos_financieros(symbol):
@@ -23,7 +23,7 @@ def procesar_datos(datos):
 
 # Guardar los datos en MySQL
 def guardar_en_mysql(df):
-    DATABASE_URL = "mysql+pymysql://root:Dragon2307*@localhost/practicando_sql"
+    DATABASE_URL = "mysql+pymysql://root:password@localhost/base de datos"
     engine = create_engine(DATABASE_URL)
     df.to_sql('datos_financieros', con=engine, if_exists='replace', index=False)
     print("Datos guardados en MySQL correctamente")
