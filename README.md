@@ -1,17 +1,25 @@
-<h1>Datos Api </h1>
+# Datos API 
 
-<h2>Dashboard de Valor de Acciones</h2>
+## Dashboard de Valor de Acciones
 
-<h3>Lenguaje Tratamiento Datos : Python</h3>
+### Lenguaje Tratamiento Datos: Python
+### Motor Base de Datos: MySQL
+### Visualizador de Datos: Power BI
 
-<h3>Motor Base de Datos : MySQL</h3>
+---
 
-<h3>Visualizador  de Datos : Power Bi</h3>
+<p align="center">
+Estado del proyecto: Finalizado
+</p>
 
-- Estado del proyecto: en Finalizado.
+<p align="center">
+El desarrollo del proyecto consistió en tomar datos de una API mediante un script en Python,<br>
+seguido de una conexión con MySQL que genera una tabla en una base de datos.<br>
+Con esta información se establece la conexión con el visualizador de datos Power BI,<br>
+donde realizo tratamiento de datos y genero medidas para plasmar el entendimiento de los datos.
+</p>
 
-<p>El desarrollo del proyecto fue tomar la Api en un script de Python seguido de una coneccion con MySQL
-Que genera una tabla en uana base de datos, con lo cula se genera la conexxion con el visualizador de datos
-Power Bi donde realizo tartamiento de datos y genero medidas para plasmar el entendimiento de datos.</p>
+---
 
-#Imagenes Proyecto 
+## Imágenes del Proyecto
+
