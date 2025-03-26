@@ -21,4 +21,12 @@ El desarrollo del proyecto consistió en tomar datos de una API mediante un scri
 ---
 
 ## Imágenes del Proyecto
+![image](https://github.com/user-attachments/assets/482fafd4-defd-4534-88df-50c9cc858ebc)
+![image](https://github.com/user-attachments/assets/022122f1-ba00-4c35-bd3c-8a23665e30e5)
+![image](https://github.com/user-attachments/assets/5161fc3c-6592-422e-886c-7dcea76f11de)
+![image](https://github.com/user-attachments/assets/3267765b-a549-4254-a1be-ea6920f53ad4)
+
+
+
+
 
